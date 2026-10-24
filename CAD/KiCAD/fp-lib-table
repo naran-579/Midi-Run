@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Capacitative keys") (type "KiCad") (uri "${KIPRJMOD}/Capacitative keys.pretty") (options "") (descr ""))
+)
