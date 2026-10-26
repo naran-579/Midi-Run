@@ -1,6 +1,11 @@
 # Midi Run
 A custom MIDI keypad with switches, sliders, rotary encoders, neopixels and capacitive buttons
 
+
+<img width="1109" height="777" alt="Screenshot 2026-10-25 at 8 03 03 PM" src="https://github.com/user-attachments/assets/d88d9eca-11f2-4016-a66f-55d539e1d6e1" />
+
+<img width="1176" height="738" alt="Screenshot 2026-10-25 at 8 03 42 PM" src="https://github.com/user-attachments/assets/fc7e891d-6504-4eb2-a173-c65ec02be21d" />
+
 # What makes mine unique (hardware-wise)
 - Tried some copper art
 - Simpler keypad footprint
